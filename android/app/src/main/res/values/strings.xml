@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">PractiseNative</string>
+      <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCt8jw_uRbRfr9_8CBRdauiHY8rWCjV6WU</string>
 </resources>

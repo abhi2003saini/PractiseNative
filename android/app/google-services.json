@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "636256082403",
+    "project_id": "practisenative",
+    "storage_bucket": "practisenative.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636256082403:android:51eb502066c8f5406ee8d6",
+        "android_client_info": {
+          "package_name": "com.practisenative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636256082403-ac7tsr5apdkdo4rbtb3ir4fdr4u0h87p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.practisenative",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "636256082403-e9o92p99hrv8aorst5ohmfufihlf6cap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcK9VINezSR29cmyjg0IIUXKVEq1ojQvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636256082403-e9o92p99hrv8aorst5ohmfufihlf6cap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
